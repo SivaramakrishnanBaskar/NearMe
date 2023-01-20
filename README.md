@@ -17,7 +17,7 @@ Write the needed HTML code.
 Run the Django server and execute the HTML files.
 
 ## Code:
-'''
+```
 map.html
 <!DOCTYPE html>
 <html lang="en">
@@ -157,7 +157,7 @@ There is a separate dormitory style retiring room for passengers.
 </p>
 </body>
 </html>
-'''
+```
 
 ## Output:
 ![OUTPUT](./screenshots/out1.png)
